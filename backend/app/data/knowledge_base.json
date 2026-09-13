@@ -1,0 +1,168 @@
+[
+  {
+    "id": "kb-booking-process",
+    "title": "Bus Ticket Booking Process",
+    "category": "booking",
+    "content": "To book a bus ticket, the customer searches using the source, destination, and travel date. The customer then selects a bus, chooses an available seat when seat selection is supported, enters passenger information, and completes payment. A booking is considered confirmed only after a booking reference or ticket confirmation is generated.",
+    "keywords": [
+      "book bus ticket",
+      "booking process",
+      "reserve bus seat",
+      "buy ticket",
+      "booking confirmation"
+    ]
+  },
+  {
+    "id": "kb-cancellation-policy",
+    "title": "Ticket Cancellation Policy",
+    "category": "cancellation",
+    "content": "Ticket cancellation eligibility and charges depend on the bus operator and the time remaining before departure. The customer should review the cancellation fee and estimated refund before confirming the cancellation. Some promotional, partially used, or operator-restricted tickets may not be cancellable.",
+    "keywords": [
+      "cancel ticket",
+      "ticket cancellation",
+      "cancellation charge",
+      "cancel booking",
+      "cancellation fee"
+    ]
+  },
+  {
+    "id": "kb-refund-policy",
+    "title": "Refund Processing Policy",
+    "category": "refund",
+    "content": "Eligible refunds are returned to the original payment method. Processing time depends on the bank, card network, UPI provider, wallet, or payment gateway. A refund may take several working days after it is successfully initiated. Customers should use their booking reference or transaction reference when checking refund status.",
+    "keywords": [
+      "refund",
+      "refund status",
+      "refund time",
+      "money back",
+      "original payment method"
+    ]
+  },
+  {
+    "id": "kb-payment-failure",
+    "title": "Failed Payment and Deducted Amount",
+    "category": "payment",
+    "content": "A payment deduction does not by itself confirm a booking. The booking is confirmed only when a valid ticket or booking reference is generated. If payment was deducted but no booking was created, the customer should check the transaction status before attempting another payment. Eligible failed-payment reversals are normally returned to the original payment method.",
+    "keywords": [
+      "payment failed",
+      "money deducted",
+      "transaction failed",
+      "booking not confirmed",
+      "payment reversal"
+    ]
+  },
+  {
+    "id": "kb-payment-methods",
+    "title": "Supported Payment Methods",
+    "category": "payment",
+    "content": "Payment options may include UPI, debit cards, credit cards, net banking, and supported digital wallets. The exact payment methods available to a customer are displayed during checkout and may depend on the payment provider and location.",
+    "keywords": [
+      "payment methods",
+      "upi",
+      "debit card",
+      "credit card",
+      "net banking",
+      "wallet"
+    ]
+  },
+  {
+    "id": "kb-luggage-policy",
+    "title": "Passenger Luggage Policy",
+    "category": "luggage",
+    "content": "Luggage limits are determined by each bus operator. Normal personal luggage is generally permitted, but oversized goods, commercial cargo, hazardous materials, illegal items, and restricted substances may not be accepted. Customers should check the selected operator's luggage policy before travelling.",
+    "keywords": [
+      "luggage",
+      "baggage",
+      "bags",
+      "suitcase",
+      "luggage limit",
+      "carry bag"
+    ]
+  },
+  {
+    "id": "kb-child-ticket-policy",
+    "title": "Child and Infant Ticket Policy",
+    "category": "passenger",
+    "content": "Child ticket requirements depend on the bus operator's age and seat policy. A separate ticket is generally required when a child occupies a seat. Infants or young children travelling without a separate seat may be handled differently by each operator. The customer should review the operator policy before booking.",
+    "keywords": [
+      "child ticket",
+      "children ticket",
+      "infant ticket",
+      "baby ticket",
+      "child seat",
+      "kids"
+    ]
+  },
+  {
+    "id": "kb-pet-policy",
+    "title": "Pet Travel Policy",
+    "category": "passenger",
+    "content": "Pet travel rules vary between bus operators. Many operators do not allow pets, while some may accept them under specific conditions relating to carriers, hygiene, documentation, or passenger safety. Customers should confirm permission directly from the operator before booking.",
+    "keywords": [
+      "pet",
+      "pets",
+      "dog",
+      "cat",
+      "animal",
+      "travel with pet"
+    ]
+  },
+  {
+    "id": "kb-boarding-documents",
+    "title": "Boarding Documents and Identity Proof",
+    "category": "boarding",
+    "content": "Passengers should carry their ticket or booking confirmation and a valid government-issued photo identity document matching the passenger information. The bus operator may request additional documents for concession tickets, international routes, or special passenger categories.",
+    "keywords": [
+      "boarding documents",
+      "photo id",
+      "identity proof",
+      "government id",
+      "carry ticket",
+      "boarding requirement"
+    ]
+  },
+  {
+    "id": "kb-seat-selection",
+    "title": "Seat Selection and Seat Availability",
+    "category": "seats",
+    "content": "Seat selection may be unavailable when the operator assigns seats automatically, when the seat map cannot be retrieved, or when another customer books the seat first. Availability can change until the booking and payment are completed. The customer may refresh the search or select another available bus.",
+    "keywords": [
+      "select seat",
+      "seat unavailable",
+      "seat selection",
+      "seat map",
+      "choose seat",
+      "seat booked"
+    ]
+  },
+  {
+    "id": "kb-reschedule-policy",
+    "title": "Changing or Rescheduling a Booking",
+    "category": "booking",
+    "content": "Changing the travel date, route, passenger, or bus depends on the operator's modification policy. When direct modification is not supported, the customer may need to cancel the original ticket and create a new booking. Cancellation charges and fare differences may apply.",
+    "keywords": [
+      "reschedule ticket",
+      "change date",
+      "change bus",
+      "modify booking",
+      "change passenger",
+      "change route"
+    ]
+  },
+  {
+    "id": "kb-boarding-time",
+    "title": "Boarding Time and Reporting",
+    "category": "boarding",
+    "content": "Passengers should arrive at the boarding point before the reporting time shown on the ticket. Traffic, boarding-point access, and operator procedures can affect boarding. Missing the bus due to late arrival may not qualify for a refund.",
+    "keywords": [
+      "boarding time",
+      "reporting time",
+      "arrive early",
+      "missed bus",
+      "miss bus",
+      "miss my bus",
+      "late boarding",
+      "boarding point"
+    ]
+  }
+]

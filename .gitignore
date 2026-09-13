@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+backend/.venv/
+
+# Environment files
+.env
+.env.*
+!.env.example
+backend/.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+
+# Runtime data & logs
+backend/app/data/*.jsonl
+backend/app/data/chat_analytics.jsonl
+backend/app/data/feedback_events.jsonl

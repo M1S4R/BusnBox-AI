@@ -1,0 +1,15 @@
+.git
+.gitignore
+.env
+.env.*
+*.env
+**/.env
+**/.env.*
+*.pyc
+**/__pycache__
+**/.pytest_cache
+backend/.venv
+backend/mock-company-api/.venv
+frontend/node_modules
+frontend/dist
+.agent
